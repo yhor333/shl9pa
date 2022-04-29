@@ -1,0 +1,16 @@
+body {
+  width: 100%;
+  height: 1800px;
+}
+
+.circle {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.circle:hover {
+  border: 3px solid black;
+}
